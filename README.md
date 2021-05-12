@@ -1,7 +1,7 @@
 # StudentGradePredictor
 WJEC Computer Science A-Level Unit 5
 
-"StudentGradePredictor" (henceforth referred to as the "project", the "coursework", or the "program") and its contents are developed by and are property of Brendan Rogan (henceforth
+"StudentGradePredictor" (henceforth referred to as the "project", the "coursework", or the "program") and its contents are developed by and are property of Digital-Brendan (henceforth
 referred to as "the developer").
 
 Any non-educational use of the project, or any of its constituent parts, requires permission from the developer.
