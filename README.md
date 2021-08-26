@@ -1,7 +1,7 @@
 # StudentGradePredictor
 WJEC Computer Science A-Level Unit 5
 
-"StudentGradePredictor" (henceforth referred to as the "Project", the "Coursework", or the "Program") and its contents are developed by and are property of Digital-Brendan (henceforth
+"StudentGradePredictor" (henceforth referred to as the "Project", the "Coursework", or the "Program") and its contents are developed by and are the sole property of Digital-Brendan (henceforth
 referred to as the "Developer").
 
 Any non-educational use of the Project, or any of its constituent parts, requires permission from the Developer.
